@@ -33,11 +33,4 @@ This tool is designed for:
 
 You don't need to write any code – just upload your dataset and explore!
 
----
 
-## 🚀 How to Run
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
